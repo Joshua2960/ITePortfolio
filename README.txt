@@ -1,0 +1,1 @@
+Replace placeholder links, add your PC video and security-plan PDF, update resume details, then publish the folder with GitHub Pages.
